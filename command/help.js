@@ -427,7 +427,7 @@ ${mundur}
 `
 }
 
-exports.donate = (pushname, ownerNumber) => {
-    return`Contact  Owner:
-wa.me/${ownerNumber} (Owner)`
+exports.donate = (pushname, ownerNumber) => {081273232835}
+    return`Contact  Owner:081273232834
+wa.me/${081273232835} (Owner)`
 }
